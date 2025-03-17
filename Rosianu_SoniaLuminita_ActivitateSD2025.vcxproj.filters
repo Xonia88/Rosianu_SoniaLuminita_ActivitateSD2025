@@ -18,7 +18,19 @@
     <ClCompile Include="Seminar01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="seminar02.c">
+    <ClCompile Include="Laborator01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Laborator02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercitiiSd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TaskuriSuplimentare.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Laborator03.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -30,7 +30,7 @@
     <ClCompile Include="TaskuriSuplimentare.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Laborator03.c">
+    <ClCompile Include="Sablon05.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
